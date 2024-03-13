@@ -1,16 +1,22 @@
 ### Hi there 👋
+Hi there 👋
 
-<!--
-**ankitsuthar2003/ankitsuthar2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Ankit Kumar. I am a student at Arya Institute Of Engineering & Technology. I am a passionate coder and have experience in Algorithms, Data Structures, blockchain developement, web developement, etc. As a natural born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. With a strong background and diverse skill set, I’m confident in the creative ideas and successful solutions I bring to the table.
 
-Here are some ideas to get you started:
+✨ I’m currently in my Btech Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning ...
+
+Developing Problem Solving Skills & Blockchain Development
+
+⚡ I am comfortable with...
+
+C++
+
+Java
+
+Python
+
+Algorithms
+
+Data Structures
